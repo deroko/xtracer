@@ -1,0 +1,6 @@
+TARGETNAME=xtracer             #driver name
+TARGETPATH=.                   #output path
+TARGETTYPE=DRIVER
+SOURCES=tracer.c\
+        asm.c\
+        handler.c

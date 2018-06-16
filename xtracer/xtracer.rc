@@ -1,0 +1,5 @@
+#include "resource.h"
+
+IDR_XTRACER_DRV         BIN     "..\\xtracer_driver\\i386\\xtracer.sys"
+
+
